@@ -1,0 +1,4 @@
+## To run file TwoGroup.c we have:
+
+mpicc TwoGroup.c
+mpirun -np 4 ./a.out
